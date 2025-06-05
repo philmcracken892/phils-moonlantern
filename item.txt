@@ -1,1 +1,1 @@
-moonlight_lantern = { name = 'moonlight_lantern', label = 'moonlight Lantern', weight = 2, type = 'item', image = 'moonlight_lantern.png', unique = false, useable = true, shouldClose = true, description = 'moonlight lantern' },
+moonlight_lantern = { name = 'moonlight_lantern', label = 'moonlight Lantern', weight = 2, type = 'item', image = 'weapon_melee_lantern_electric.png', unique = false, useable = true, shouldClose = true, description = 'moonlight lantern' },
